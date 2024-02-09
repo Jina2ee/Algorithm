@@ -1,0 +1,3 @@
+# Algorithm
+
+For practicing algorithm
